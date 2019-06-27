@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <stoneshop name="theorite">
+    <country>Belgium</country>
+    <auction>yes</auction>
+  </stoneshop>
+  <stoneshop name="ametrine">
+    <country>Bolivia</country>
+    <auction>yes</auction>
+  </stoneshop>
+</root>

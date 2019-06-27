@@ -1,0 +1,41 @@
+ConsoleApp1.Test - Method - get_Test1
+
+ConsoleApp1.Test - Method - set_Test1
+
+ConsoleApp1.Test - Method - get_Test2
+
+ConsoleApp1.Test - Method - set_Test2
+
+ConsoleApp1.Test - Method - get_Name
+
+ConsoleApp1.Test - Method - set_Name
+
+ConsoleApp1.Test - Method - Sum
+
+ConsoleApp1.Test - Method - ToDo
+
+ConsoleApp1.Test - Method - ToString
+
+ConsoleApp1.Test - Method - ToConsole
+
+System.Object - Method - Equals
+
+System.Object - Method - GetHashCode
+
+System.Object - Method - GetType
+
+ConsoleApp1.Test - Constructor - .ctor
+
+ConsoleApp1.Test - Constructor - .ctor
+
+ConsoleApp1.Test - Property - Test1
+
+ConsoleApp1.Test - Property - Test2
+
+ConsoleApp1.Test - Property - Name
+
+ConsoleApp1.Test - Field - test1
+
+ConsoleApp1.Test - Field - test2
+
+ConsoleApp1.Test - Field - name

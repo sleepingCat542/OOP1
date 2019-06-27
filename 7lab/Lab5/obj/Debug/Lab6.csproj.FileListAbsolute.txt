@@ -1,0 +1,18 @@
+E:\2nd course\3rd sem\OOP\Labs\Lab6\Lab5\bin\Debug\Lab6.exe.config
+E:\2nd course\3rd sem\OOP\Labs\Lab6\Lab5\bin\Debug\Lab6.exe
+E:\2nd course\3rd sem\OOP\Labs\Lab6\Lab5\bin\Debug\Lab6.pdb
+E:\2nd course\3rd sem\OOP\Labs\Lab6\Lab5\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+E:\2nd course\3rd sem\OOP\Labs\Lab6\Lab5\obj\Debug\Lab6.exe
+E:\2nd course\3rd sem\OOP\Labs\Lab6\Lab5\obj\Debug\Lab6.pdb
+H:\ООП\Лабы\6lab\Lab5\bin\Debug\Lab6.exe.config
+H:\ООП\Лабы\6lab\Lab5\bin\Debug\Lab6.exe
+H:\ООП\Лабы\6lab\Lab5\bin\Debug\Lab6.pdb
+H:\ООП\Лабы\6lab\Lab5\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+H:\ООП\Лабы\6lab\Lab5\obj\Debug\Lab6.exe
+H:\ООП\Лабы\6lab\Lab5\obj\Debug\Lab6.pdb
+H:\ООП\Лабы\7lab\Lab5\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+H:\ООП\Лабы\7lab\Lab5\obj\Debug\Lab6.exe
+H:\ООП\Лабы\7lab\Lab5\obj\Debug\Lab6.pdb
+H:\ООП\Лабы\7lab\Lab5\bin\Debug\Lab6.exe.config
+H:\ООП\Лабы\7lab\Lab5\bin\Debug\Lab6.exe
+H:\ООП\Лабы\7lab\Lab5\bin\Debug\Lab6.pdb

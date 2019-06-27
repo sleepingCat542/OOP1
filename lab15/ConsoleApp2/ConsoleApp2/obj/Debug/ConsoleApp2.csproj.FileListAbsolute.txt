@@ -1,0 +1,5 @@
+H:\ООП\Лабы\lab15\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+H:\ООП\Лабы\lab15\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+H:\ООП\Лабы\lab15\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+H:\ООП\Лабы\lab15\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+H:\ООП\Лабы\lab15\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache

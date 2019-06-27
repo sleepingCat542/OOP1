@@ -1,0 +1,25 @@
+D:\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\Lab5\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\Lab5\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+D:\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\Catherine\Desktop\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Catherine\Desktop\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\Catherine\Desktop\Lab5\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Catherine\Desktop\Lab5\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+C:\Users\Catherine\Desktop\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Catherine\Desktop\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb
+E:\2nd course\3rd sem\OOP\Labs\Lab5\Lab5\bin\Debug\Lab5.exe.config
+E:\2nd course\3rd sem\OOP\Labs\Lab5\Lab5\bin\Debug\Lab5.exe
+E:\2nd course\3rd sem\OOP\Labs\Lab5\Lab5\bin\Debug\Lab5.pdb
+E:\2nd course\3rd sem\OOP\Labs\Lab5\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+E:\2nd course\3rd sem\OOP\Labs\Lab5\Lab5\obj\Debug\Lab5.exe
+E:\2nd course\3rd sem\OOP\Labs\Lab5\Lab5\obj\Debug\Lab5.pdb
+H:\ООП\Лабы\5lab\Lab5\bin\Debug\Lab5.exe.config
+H:\ООП\Лабы\5lab\Lab5\bin\Debug\Lab5.exe
+H:\ООП\Лабы\5lab\Lab5\bin\Debug\Lab5.pdb
+H:\ООП\Лабы\5lab\Lab5\obj\Debug\Lab5.csprojResolveAssemblyReference.cache
+H:\ООП\Лабы\5lab\Lab5\obj\Debug\Lab5.exe
+H:\ООП\Лабы\5lab\Lab5\obj\Debug\Lab5.pdb

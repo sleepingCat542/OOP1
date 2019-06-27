@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Stone xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Price>89</Price>
+  <Status>Ready</Status>
+  <Weight>28</Weight>
+  <Color>Прозрачный</Color>
+</Stone>
